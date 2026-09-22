@@ -59,6 +59,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 ## Python
 - [PACT Python](https://github.com/pact-foundation/pact-python) - Python version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 - [Specmatic Python](https://pypi.org/project/specmatic/) - Python wrapper of Specmatic.
+- [DriftWire](https://github.com/Haswell119/driftwire) - Detect API contract drift: validate a live API against its OpenAPI spec, or diff two spec versions for breaking changes.
 
 ## Go
 - [PACT Go](https://github.com/pact-foundation/pact-go) - Golang version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
